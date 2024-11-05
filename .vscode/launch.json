@@ -1,0 +1,336 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "bioskop10",
+      "request": "launch",
+      "mainClass": "bioskop10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "tes",
+      "request": "launch",
+      "mainClass": "tes",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "arrayGanjil",
+      "request": "launch",
+      "mainClass": "arrayGanjil",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "arrayElemenTerbesar",
+      "request": "launch",
+      "mainClass": "arrayElemenTerbesar",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "arrayterbalik",
+      "request": "launch",
+      "mainClass": "arrayterbalik",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "namaBulan10",
+      "request": "launch",
+      "mainClass": "namaBulan10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "linearSearch10",
+      "request": "launch",
+      "mainClass": "linearSearch10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "arrayRataNilai10",
+      "request": "launch",
+      "mainClass": "arrayRataNilai10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "arrayNilai10",
+      "request": "launch",
+      "mainClass": "arrayNilai10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "array10",
+      "request": "launch",
+      "mainClass": "array10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "plantsZombie",
+      "request": "launch",
+      "mainClass": "kuis.plantsZombie",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "rpgGame",
+      "request": "launch",
+      "mainClass": "kuis.rpgGame",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Bank10",
+      "request": "launch",
+      "mainClass": "Bank10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "ContohOperator10",
+      "request": "launch",
+      "mainClass": "ContohOperator10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "ContohTipeData10",
+      "request": "launch",
+      "mainClass": "ContohTipeData10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "ContohVariabel10",
+      "request": "launch",
+      "mainClass": "ContohVariabel10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Gaji10",
+      "request": "launch",
+      "mainClass": "Gaji10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "HargaBayar10",
+      "request": "launch",
+      "mainClass": "HargaBayar10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Kafe",
+      "request": "launch",
+      "mainClass": "Kafe",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Kafe10",
+      "request": "launch",
+      "mainClass": "Kafe10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Lingkaran10",
+      "request": "launch",
+      "mainClass": "Lingkaran10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "MyFirstJavaGithub10",
+      "request": "launch",
+      "mainClass": "MyFirstJavaGithub10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Pemilihan2PercobaanDua10",
+      "request": "launch",
+      "mainClass": "Pemilihan2PercobaanDua10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "PemilihanHari",
+      "request": "launch",
+      "mainClass": "PemilihanHari",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "PemilihanPercobaanDua10",
+      "request": "launch",
+      "mainClass": "PemilihanPercobaanDua10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "PemilihanPercobaanSatu10",
+      "request": "launch",
+      "mainClass": "PemilihanPercobaanSatu10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "PemilihanPercobaanTiga10",
+      "request": "launch",
+      "mainClass": "PemilihanPercobaanTiga10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Segitiga10",
+      "request": "launch",
+      "mainClass": "Segitiga10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Siakad10",
+      "request": "launch",
+      "mainClass": "Siakad10",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "TestBranch",
+      "request": "launch",
+      "mainClass": "TestBranch",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "TransaksiKafe",
+      "request": "launch",
+      "mainClass": "TransaksiKafe",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "hitungGaji",
+      "request": "launch",
+      "mainClass": "hitungGaji",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Main(1)",
+      "request": "launch",
+      "mainClass": "inheritance.Main",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "bioskop",
+      "request": "launch",
+      "mainClass": "jobsheet7.bioskop",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "kafeDoWhile",
+      "request": "launch",
+      "mainClass": "jobsheet7.kafeDoWhile",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "parkir",
+      "request": "launch",
+      "mainClass": "jobsheet7.parkir",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "siakadFor",
+      "request": "launch",
+      "mainClass": "jobsheet7.siakadFor",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "siakadWhile",
+      "request": "launch",
+      "mainClass": "jobsheet7.siakadWhile",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "kuis",
+      "request": "launch",
+      "mainClass": "kuis.kuis",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "Main(2)",
+      "request": "launch",
+      "mainClass": "polymorphism.Main",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "siakad",
+      "request": "launch",
+      "mainClass": "siakad",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "tahunKabisat",
+      "request": "launch",
+      "mainClass": "tahunKabisat",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "tugas1",
+      "request": "launch",
+      "mainClass": "tugas1",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "tugas2",
+      "request": "launch",
+      "mainClass": "tugas2",
+      "projectName": "WRI_fb35f4da"
+    },
+    {
+      "type": "java",
+      "name": "tugas3",
+      "request": "launch",
+      "mainClass": "tugas3",
+      "projectName": "WRI_fb35f4da"
+    }
+  ]
+}

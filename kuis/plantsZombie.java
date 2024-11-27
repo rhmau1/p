@@ -1,4 +1,3 @@
-package kuis;
 
 import java.util.Scanner;
 

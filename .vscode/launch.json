@@ -6,6 +6,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "matriks3x3",
+      "request": "launch",
+      "mainClass": "matriks3x3",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "spoj",
+      "request": "launch",
+      "mainClass": "spoj",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "tugas2fungsi",
+      "request": "launch",
+      "mainClass": "tugas2fungsi",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "tugas2",
+      "request": "launch",
+      "mainClass": "tugas2",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "tugasFPB",
+      "request": "launch",
+      "mainClass": "tugasFPB",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "fpb",
+      "request": "launch",
+      "mainClass": "fpb",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "Scramble",
+      "request": "launch",
+      "mainClass": "Scramble",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "namaLengkap",
+      "request": "launch",
+      "mainClass": "namaLengkap",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "tokoBuku",
+      "request": "launch",
+      "mainClass": "tokoBuku",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "atlet",
+      "request": "launch",
+      "mainClass": "atlet",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "ArrayDua10",
+      "request": "launch",
+      "mainClass": "ArrayDua10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "NestedLoop10",
+      "request": "launch",
+      "mainClass": "NestedLoop10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "p",
+      "request": "launch",
+      "mainClass": "p",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "siakad10",
+      "request": "launch",
+      "mainClass": "siakad10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "numbers10",
+      "request": "launch",
+      "mainClass": "numbers10",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "bisokopWithScanner",
+      "request": "launch",
+      "mainClass": "bisokopWithScanner",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
       "name": "bioskop10",
       "request": "launch",
       "mainClass": "bioskop10",

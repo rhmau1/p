@@ -7,7 +7,13 @@ public class tes {
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[0].length; j++) {
                 System.out.print("input" + i + j + " : ");
-                arr[i][j] = sc.nextInt();
+                int input = sc.nextInt();
+                if (input > 0 && input < 6) {
+                    arr[i][j] = input;
+                } else {
+                    System.out.println("hanya menerima input 1-5");
+                    j--;
+                }
             }
         }
 
@@ -26,6 +32,14 @@ public class tes {
             }
             System.out.println("rata pertanyaan: " + (rataPert[i] / 10));
         }
+
+        double rataKeseluruhan = 0;
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[0].length; j++) {
+                rataKeseluruhan += arr[i][j];
+            }
+        }
+        System.out.println("rata keseluruhan: " + (rataKeseluruhan / 60));
 
         System.out.println("\nArray in table format:");
         for (int i = 0; i < arr.length; i++) {

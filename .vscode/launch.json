@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "krs",
+      "request": "launch",
+      "mainClass": "krs",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "latsol",
+      "request": "launch",
+      "mainClass": "latsol",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "matriks",
+      "request": "launch",
+      "mainClass": "matriks",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
       "name": "matriks3x3",
       "request": "launch",
       "mainClass": "matriks3x3",

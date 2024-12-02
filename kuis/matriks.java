@@ -5,8 +5,9 @@ public class matriks {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int[][] matriks1 = new int[3][3];
-        int[][] matriks2 = new int[3][3];
+
+        int[][] matriks1 = new int[2][2];
+        int[][] matriks2 = new int[2][1];
 
         System.out.println("matriks ke 1");
         input(sc, matriks1);

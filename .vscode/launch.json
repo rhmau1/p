@@ -6,6 +6,160 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "alsd.Main",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "jadwalMatkul",
+      "request": "launch",
+      "mainClass": "jadwalMatkul",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "kubusMenu",
+      "request": "launch",
+      "mainClass": "kubusMenu",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "platNomor",
+      "request": "launch",
+      "mainClass": "platNomor",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "tugas1",
+      "request": "launch",
+      "mainClass": "tugas1",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "fungsi",
+      "request": "launch",
+      "mainClass": "fungsi",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "perulangan",
+      "request": "launch",
+      "mainClass": "perulangan",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "pemilihan",
+      "request": "launch",
+      "mainClass": "pemilihan",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "no3mencarikpk",
+      "request": "launch",
+      "mainClass": "no3mencarikpk",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "no3cekprima",
+      "request": "launch",
+      "mainClass": "no3cekprima",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "Array1d",
+      "request": "launch",
+      "mainClass": "Array1d",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "no2urutBilangan",
+      "request": "launch",
+      "mainClass": "no2urutBilangan",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "KRS",
+      "request": "launch",
+      "mainClass": "KRS",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "no2hitungAir",
+      "request": "launch",
+      "mainClass": "no2hitungAir",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "no3hitungAir",
+      "request": "launch",
+      "mainClass": "no3hitungAir",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "no1KonversiJam",
+      "request": "launch",
+      "mainClass": "no1KonversiJam",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "nomor2",
+      "request": "launch",
+      "mainClass": "nad.nomor2",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "no1KonversiSuhu",
+      "request": "launch",
+      "mainClass": "no1KonversiSuhu",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "no1",
+      "request": "launch",
+      "mainClass": "no1",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
+      "name": "no5",
+      "request": "launch",
+      "mainClass": "no5",
+      "projectName": "WRI_77518bb5"
+    },
+    {
+      "type": "java",
       "name": "krs",
       "request": "launch",
       "mainClass": "krs",
